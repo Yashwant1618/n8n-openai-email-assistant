@@ -71,10 +71,9 @@ n8n-openai-email-assistant/
 ├── workflow.json
 ├── README.md
 ├── LICENSE
-└── images/
-      ├── workflow.png
-      ├── chat.png
-      └── email.png
+├── WorkflowAutomation1.png
+├── EmailNotification.png
+└── EmailReceived.png
 ```
 
 ---
