@@ -89,7 +89,7 @@ n8n-openai-email-assistant/
 
 ### Chat Interface
 
-![Chat](https://github.com/Yashwant1618/n8n-openai-email-assistant/blob/main/TelegramAssitent.png)
+![Chat](https://github.com/Yashwant1618/n8n-openai-email-assistant/blob/main/EmailNotification.png?raw=true)
 
 ---
 
