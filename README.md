@@ -1,4 +1,4 @@
-<img width="1872" height="666" alt="WorkflowAutomation1" src="https://github.com/user-attachments/assets/6aa46c84-fba3-4887-97ef-71cd001b9ec7" /># 🤖 AI-Powered Email Automation using n8n & OpenAI
+# 🤖 AI-Powered Email Automation using n8n & OpenAI
 
 ![n8n](https://img.shields.io/badge/n8n-Automation-orange)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-green)
@@ -71,9 +71,10 @@ n8n-openai-email-assistant/
 ├── workflow.json
 ├── README.md
 ├── LICENSE
-├── workflow.png
-├── chat.png
-└── email.png
+└── images/
+      ├── workflow.png
+      ├── chat.png
+      └── email.png
 ```
 
 ---
@@ -82,20 +83,19 @@ n8n-openai-email-assistant/
 
 ### Workflow
 
-![Uploading WorkflowAutomation1.png…]()
-
+![Workflow](https://github.com/Yashwant1618/n8n-openai-email-assistant/blob/main/WorkflowAutomation1.png?raw=true)
 
 ---
 
 ### Chat Interface
 
-![Chat](images/chat.png)
+![Chat](https://github.com/Yashwant1618/n8n-openai-email-assistant/blob/main/TelegramAssitent.png)
 
 ---
 
 ### Generated Email
 
-![Email](images/email.png)
+![Email](https://github.com/Yashwant1618/n8n-openai-email-assistant/blob/main/EmailReceived.png)
 
 ---
 
@@ -117,8 +117,7 @@ n8n-openai-email-assistant/
 - AWS Certified Solutions Architect – Associate
 - Infrastructure Consultant | AWS | DevOps | AI Automation
 
-LinkedIn:
-https://linkedin.com/in/<your-linkedin>
+LinkedIn: https://www.linkedin.com/in/yashwant-aws/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoyTGGIKTTUmLjXGtjKAPgQ%3D%3D
 
 GitHub:
-https://github.com/<your-username>
+[https://github.com/<your-username>](https://github.com/Yashwant1618)
